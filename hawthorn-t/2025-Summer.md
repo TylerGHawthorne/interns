@@ -1,4 +1,4 @@
-# Tyler Hawthonr
+# Tyler Hawthorne
 
 ## w/c 23 June 2025
 
