@@ -38,10 +38,11 @@
 * [BIDS Blog post](https://bids.berkeley.edu/news/building-open-network-friday-morning-panel-showcases-leadership-across-open-source-ecosystem) writing and editing (6 hrs)
 * Final onboarding support with JK  (CalTime, GitHub, access) (1 hr)
 * Meeting with Kirstie and interns (2 hrs)
-* Meeting with KW and KC about Turing way (1 hr)
-* GitHub Research and familiarity with Turing way (4 hr)
-* Starting organization and format for Issue in Turing way (2 hr)
-* Intern Trainings and more onboarding steps (3 hr)
+* Meeting with KW and KC about Turing way (1.5 hr)
+* GitHub Research and videos (4 hrs)
+* familiarity with Turing way (reading and format) (3 hr)
+* Starting organization and format for Issue in Turing way (4 hr)
+* Intern Trainings and more onboarding steps (4.5 hr)
 
 #### What will I do next week?
 * My available hours next week are 8, 8, 8, 8, 8.
